@@ -1,3 +1,5 @@
+#!/bin/bash
+
 #secure-ssh.sh
 #author LPouliot
 #creates a new ssh user using $1 parameter
