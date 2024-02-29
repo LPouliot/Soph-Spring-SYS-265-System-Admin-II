@@ -1,1 +1,1 @@
-mgmt01-lily
+hostname
